@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AAEA,MAAM,YAAY,SAAS,aAAa,CAAC;AACzC,UAAU,KAAK,CAAC,kBAAkB,GAAG","sources":["src/scripts/main.js"],"sourcesContent":["'use strict';\n\nconst mainTitle = document.querySelector('.header__title');\nmainTitle.style.animationPlayState = 'running';\n"],"names":[],"version":3,"file":"index.f75de5e1.js.map","sourceRoot":"/__parcel_source_root/"}
